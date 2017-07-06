@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_details">Details</string>
+    <string name="crime_status">Is crime solved?</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="choose_criminal">Choose Criminal</string>
+    <string name="hint_title">Title</string>
+    <string name="create_crime">Create</string>
+    <string name="no_date">No Date</string>
+    <string name="no_title_error">Title cannot be blank</string>
+    <string name="Allow">Permission</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancle</string>
+    <string name="alter_dialog_message">\"Allow Criminal Intent to Access External Storage\"</string>
+    <string name="resqest_denied">Go to settings and enable permissions</string>
+    <string name="permission_assign">External Storage Permission Granted</string>
+    <string name="not_mounted">External Device is not Mounted</string>
+    <string name="new_crime">Save Crime</string>
+    <string name="no_data">No Items</string>
+    <string name="no_item">Select Item to View Details</string>
+</resources>

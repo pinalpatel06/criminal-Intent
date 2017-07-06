@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_size">80dp</dimen>
+    <dimen name="detail_activity_padding">5dp</dimen>
+
+    <dimen name="crime_list_width">250dp</dimen>
+</resources>
